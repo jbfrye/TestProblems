@@ -8,7 +8,7 @@ namespace TestProblems
         static void Main(string[] args)
         {
             //GonzalesTest.Run();
-            AmazonAssessment.Run();
+            ShortestPathProblem.Run();
         }
     }
 }
